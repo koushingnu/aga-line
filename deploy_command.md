@@ -1,4 +1,4 @@
-### 2. Cloud Runへデプロイ
+### Cloud Runへデプロイ
 
 ```bash
 # 方法A: ソースから直接デプロイ（env.yaml使用）
